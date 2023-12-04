@@ -7,10 +7,10 @@ from PIL import Image, ImageTk
 import random
 
 # API credentials
-api_key="lapesfpt16tucj3q"
-api_secret="hjwrey2m412jvk5hmr808pihme57j6s7"
-request_token = "aU2UPwA62gTGFHBx6Gt8rI5XCXpC9eED"
-access_token = "MyD8AI3YhVjg7pPa7B2IZzOY23pvPjAC"  # Replace with your access token
+api_key=""
+api_secret=""
+request_token = ""
+access_token = ""  # Replace with your access token
 
 # Create a Kite Connect instance
 kite = KiteConnect(api_key=api_key)
